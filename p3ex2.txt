@@ -1,0 +1,10 @@
+100 9
+logon 543 1151
+logon 92 1050
+logoff 543
+logon 101 1125
+logon 106 1800
+logon 103 1600
+logon 214 1700
+logon 400 1725
+logon 4 1650

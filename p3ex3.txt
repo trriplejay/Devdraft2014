@@ -1,0 +1,104 @@
+100 103
+logon 10 1151
+logon 12 1050
+logoff 12
+logon 14 1125
+logon 16 1800
+logon 18 1600
+logon 20 1700
+logon 22 1725
+logon 24 1650
+logon 26 1125
+logon 28 1800
+logon 30 1600
+logoff 28
+logon 32 1900
+logon 34 2001
+logon 36 2102
+logon 38 2203
+logon 40 2304
+logon 42 2405
+logon 44 2506
+logon 46 2607
+logon 48 2708
+logon 50 1977
+logon 52 2078
+logon 54 2179
+logon 56 2280
+logon 58 2381
+logoff 20
+logoff 22
+logoff 24
+logoff 26
+logoff 28
+logoff 30
+logoff 32
+logoff 34
+logoff 36
+logoff 38
+logoff 40
+logoff 42
+logoff 44
+logoff 46
+logoff 48
+logoff 50
+logoff 52
+logoff 54
+logoff 56
+logoff 58
+logon 50 1977
+logon 52 2078
+logon 54 2179
+logon 56 2280
+logon 58 2381
+logon 10 1151
+logon 12 1050
+logon 32 1900
+logon 34 2001
+logon 36 2102
+logon 38 2203
+logon 40 2304
+logon 42 2405
+logon 44 2506
+logon 46 2607
+logon 48 2708
+logoff 12
+logon 14 1125
+logon 16 1800
+logon 18 1600
+logon 20 1700
+logon 22 1725
+logon 24 1650
+logon 26 1125
+logon 28 1800
+logon 30 1600
+logoff 28
+logon 60 500
+logon 62 649
+logon 64 798
+logon 66 947
+logon 68 1096
+logon 70 1245
+logon 72 1394
+logon 74 1543
+logon 76 1692
+logon 78 1841
+logon 80 1990
+logon 82 2139
+logon 84 2288
+logon 86 575
+logon 88 676
+logon 90 777
+logon 92 878
+logon 94 979
+logon 96 2300
+logon 98 2101
+logon 100 1902
+logon 102 1703
+logon 104 1504
+logon 106 1305
+logon 108 1106
+logon 110 907
+logon 112 708
+logon 114 509
+logon 116 310
